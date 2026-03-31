@@ -13,13 +13,10 @@ function Layout({ children }) {
           filter: "brightness(0.55)",
         }}
       />
-
       <Navbar />
-
       <div className="relative z-10 w-full">{children}</div>
       <Footer />
     </div>
   );
 }
-
 export default Layout;
