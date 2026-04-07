@@ -19,7 +19,7 @@ const educationData = [
     title: "12th Grade (Higher Secondary)",
     institution:
       "Dharmamurthi Rao Bahadur Calavala Cannan Chetty's Higher Secondary School, [Chennai/India]",
-    graduated: "Completed: 2019",
+    graduated: "Completed: 2021",
     Percentage: "Percentage: 78%",
     stream: "Stream: Science with Mathematics",
     buttonText: "View Mark Sheet",
@@ -31,7 +31,7 @@ const educationData = [
     title: "10th Grade (Secondary)",
     institution:
       "Dharmamurthi Rao Bahadur Calavala Cannan Chetty's Higher Secondary School, [Chennai/India]",
-    graduated: "Completed: 2021",
+    graduated: "Completed: 2019",
     Percentage: "Percentage: 70%",
     stream: "Stream: General Studies",
     buttonText: "View Mark Sheet",

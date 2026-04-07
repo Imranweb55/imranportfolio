@@ -47,13 +47,9 @@ function About() {
               <p>
                 Welcome, I am{" "}
                 <span className="text-white font-medium">Imran I</span>, an
-                <span className="text-emerald-400">
-                  {" "}
-                  Associate Software Engineer
-                </span>{" "}
-                and Full-Stack Developer based in Chennai, India. I specialize
-                in building scalable, high-performance web applications using
-                the
+                <span className="text-emerald-400"> Software Engineer</span> and
+                Full-Stack Developer based in Chennai, India. I specialize in
+                building scalable, high-performance web applications using the
                 <span className="text-white"> MERN Stack</span> and
                 <span className="text-white"> Java</span>.
               </p>
